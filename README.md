@@ -41,7 +41,7 @@
 ## Q3
 
 - [ ] answer wm[^1]
-- [ ] ev rhino[^2]
+- [ ] ==ev rhino==[^2]
 - [ ] fa report[^3]
 - [ ] ru dd[^4]
 - [x] wash up[^2330]

@@ -32,7 +32,7 @@
 
 ### Taisha
 
-#### 
+### The set of all versions of myself in time—past, present, and future
 
 
 

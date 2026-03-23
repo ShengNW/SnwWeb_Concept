@@ -45,6 +45,7 @@
 - [ ] fa report[^3]
 - [ ] ru dd[^4]
 - [x] wash up[^2330]
+- [x] get up
 
 ## Q4
 

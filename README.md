@@ -44,7 +44,7 @@
 - [ ] ev rhino[^2]
 - [ ] fa report[^3]
 - [ ] ru dd[^4]
-- [ ] wash up[^2330]
+- [x] wash up[^2330]
 - [x] get up
 
 ## Q4

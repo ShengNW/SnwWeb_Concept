@@ -44,6 +44,7 @@
 - [ ] <mark>ev rhino</mark>[^2]
 - [ ] fa report[^3]
 - [ ] ru dd[^4]
+- [ ] gpt LIST[^5]
 - [x] wash up[^2330]
 - [x] get up
 
@@ -53,4 +54,5 @@
 [^2]:
 [^3]:
 [^4]:
+[^5]:
 [^2330]:

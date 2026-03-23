@@ -2,6 +2,40 @@
 
 ## Q1
 
+### one
+
+### combine with Taisha
+
+### acknowledge hallucination
+
+### creator
+
+#### not victim
+
+### tools
+
+### life painter
+
+### infinite
+
+#### finite tools
+
+### invisible
+
+#### tangible tools
+
+##### receiver and sending station
+
+### beautiful light
+
+### myself
+
+### Taisha
+
+#### 
+
+
+
 ## Q2
 
 <details>
@@ -25,7 +59,7 @@
 </details>
 
 <details>
-<summary>节点 2</summary>
+<summary>terminal point of time, the end of miracle world</summary>
 
 <details>
 <summary>节点 2-1</summary>

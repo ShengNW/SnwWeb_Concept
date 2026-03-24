@@ -75,7 +75,7 @@
 ## Q3
 
 - [ ] answer wm[^1]
-- [ ] <mark>ev rhino</mark>[^2]
+- [ ] <mark>ev rhino</mark>[^2][^5]
 - [ ] fa report[^3]
 - [ ] ru dd[^4]
 - [ ] [q](https://github.com/ShengNW/SnwWeb_Concept/blob/d38705abcf44db56b08594e8db88b24d49c6bc66/q.csv?plain=1#L1) Parato[^5]
@@ -87,5 +87,5 @@
 [^2]:[impatient](https://gemini.google.com/share/0865b06bea9b)
 [^3]:[defeated](https://gemini.google.com/share/0621447b4579)
 [^4]:[powerless](https://gemini.google.com/share/7fef8383bc3b)
-[^5]:
+[^5]:[guilty](https://gemini.google.com/share/7430f9cdf7ec)
 

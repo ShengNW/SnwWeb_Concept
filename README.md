@@ -83,9 +83,9 @@
 
 ## Q4
 
-[^1]:[anxious](https://gemini.google.com/share/16f64dfc64a8)
-[^2]:
-[^3]:
+[^1]:[anxious]()
+[^2]:[impatient](https://gemini.google.com/share/0865b06bea9b)
+[^3]:[defeated](https://gemini.google.com/share/0621447b4579)
 [^4]:
 [^5]:
 

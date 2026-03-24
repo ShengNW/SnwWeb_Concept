@@ -78,7 +78,7 @@
 - [ ] <mark>ev rhino</mark>[^2]
 - [ ] fa report[^3]
 - [ ] ru dd[^4]
-- [ ] q Parato[^5]
+- [ ] [q](https://github.com/ShengNW/SnwWeb_Concept/blob/d38705abcf44db56b08594e8db88b24d49c6bc66/q.csv?plain=1#L1) Parato[^5]
 
 
 ## Q4

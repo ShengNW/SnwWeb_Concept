@@ -83,9 +83,9 @@
 
 ## Q4
 
-[^1]:[anxious]()
+[^1]:[anxious](https://shengnw.github.io/SnwWeb_000_Em.github.io/anxiety/anxious.html)
 [^2]:[impatient](https://gemini.google.com/share/0865b06bea9b)
 [^3]:[defeated](https://gemini.google.com/share/0621447b4579)
-[^4]:
+[^4]:[powerless](https://gemini.google.com/share/7fef8383bc3b)
 [^5]:
 

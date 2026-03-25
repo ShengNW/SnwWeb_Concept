@@ -89,3 +89,4 @@
 [^4]:[powerless](https://gemini.google.com/share/7fef8383bc3b)
 [^5]:[guilty](https://gemini.google.com/share/7430f9cdf7ec)
 [^6]:[frightened](https://gemini.google.com/share/04ecebf03fd6)
+    可能卡住/出错

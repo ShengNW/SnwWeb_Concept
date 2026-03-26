@@ -79,7 +79,7 @@
 - [ ] fa report[^3]
 - [ ] [ru](./Ru.md) dd[^4]
 - [ ] [q](https://github.com/ShengNW/SnwWeb_Concept/blob/d38705abcf44db56b08594e8db88b24d49c6bc66/q.csv?plain=1#L1) Parato[^5]
-- [ ] #1
+- [ ] [repeat](https://github.com/ShengNW/SnwWeb_Concept/issues/1)[^7]
 
 
 ## Q4

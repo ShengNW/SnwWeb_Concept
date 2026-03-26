@@ -78,7 +78,7 @@
 - [ ] <mark>[ev](./Ev.md) [rhino](https://github.com/ShengNW/SnwWeb_Concept/blob/7ed81640222f4024f4e484af3d40222985367484/q.csv?plain=1#L747)</mark>[^2][^5][^6]
 - [ ] fa report[^3]
 - [ ] [ru](./Ru.md) dd[^4]
-- [ ] [q](https://github.com/ShengNW/SnwWeb_Concept/blob/d38705abcf44db56b08594e8db88b24d49c6bc66/q.csv?plain=1#L1) Parato[^5]
+- [ ] [q](https://github.com/ShengNW/SnwWeb_Concept/blob/d38705abcf44db56b08594e8db88b24d49c6bc66/q.csv?plain=1#L1) [Parato](./Ic.md)[^5]
 - [ ] [repeat](https://github.com/ShengNW/SnwWeb_Concept/issues/1)[^7]
 
 

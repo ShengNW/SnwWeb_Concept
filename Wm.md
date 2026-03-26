@@ -26,22 +26,22 @@
 
 </details>
 
-<details>
+<details open>
 <summary>__</summary>
 
-<details>
+<details open>
 <summary>____</summary>
 
-<details>
+<details open>
 <summary>______点EgScWm</summary>
 
-<details>
+<details open>
 <summary>________点循EgG↔Tm</summary>
 
-<details>
+<details open>
 <summary>__________</summary>
 
-<details>
+<details open>
 <summary>____________【沟】</summary>
 
 </details>

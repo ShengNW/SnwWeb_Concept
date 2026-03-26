@@ -90,3 +90,7 @@
 [^5]:[guilty](https://gemini.google.com/share/7430f9cdf7ec)
 [^6]:[frightened](https://gemini.google.com/share/04ecebf03fd6)
     可能卡住/出错
+    怕被流程吞没，怕失去自主感
+    >   1. 被控制感：我不想被一长串步骤牵着走。
+    >   2. 身份违和：我习惯高杠杆自动化，手工点点点让我感觉“降级”。
+    >   3. 预期耗竭：我知道一看就会被整条流程吸进去，能量会被抽干。

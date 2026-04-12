@@ -77,7 +77,7 @@
 - [ ] answer [wm](./Wm.md)[^1]
 - [ ] <mark>[ev](./Ev.md) [rhino](https://github.com/ShengNW/SnwWeb_Concept/blob/7ed81640222f4024f4e484af3d40222985367484/q.csv?plain=1#L747)</mark>[^2][^5][^6]
 - [ ] [fa](./Fa.md) reply[^3] <!-- report -->
-- [ ] [ru](./Ru.md) dd[^4]
+- [ ] [ru](./Ru.md) dd[^4][^8]
 - [ ] [q](https://github.com/ShengNW/SnwWeb_Concept/blob/d38705abcf44db56b08594e8db88b24d49c6bc66/q.csv?plain=1#L1) [Parato](./Ic.md)[^5]
 - [ ] [repeat](https://github.com/ShengNW/SnwWeb_Concept/issues/1)[^7]
 
@@ -97,3 +97,4 @@
     >   3. 预期耗竭：我知道一看就会被整条流程吸进去，能量会被抽干。
 
 [^7]:[sick](https://gemini.google.com/share/6b7e32e33818)
+[^8]:[breakdown](https://gemini.google.com/share/97347ef98c8b)

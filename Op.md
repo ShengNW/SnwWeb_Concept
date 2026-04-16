@@ -253,7 +253,7 @@
 <summary>____\\wsl.localhost\Ubuntu\mnt\webdav\personal\code\New Folder\Snw_Lx</summary>
 
 <details>
-<summary>______【】</summary>
+<summary>______【\\wsl.localhost\Ubuntu\home\administrator\】</summary>
 
 </details>
 

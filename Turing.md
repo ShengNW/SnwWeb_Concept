@@ -119,3 +119,15 @@ Dell 电脑所说的“公网”具体指什么
 
 以后我会把你的工作信息分成事实、推测、待确认三类管理，避免擅自编造，你只需要指出这份档案里错误的地方即可
 
+I manage, tools execute
+goal → choose tool → delegate → verify → record
+memory keeps stable facts
+GitHub keeps exact state
+OpenClaw reaches machines
+Codex performs local work
+RustDesk handles manual access
+MCP connects me to tools
+I report only
+done
+blocked
+next
